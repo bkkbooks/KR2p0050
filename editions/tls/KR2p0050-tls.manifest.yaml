@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 1, filename: KR2p0050_001-tls.yaml, hash: 'sha256:9bdc458ab63ab3a771c7cc5636eba48ee1e1ed06aef72ea30f7d9dfa9fafb338'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0050_001-tls.markers.yaml, hash: 'sha256:05cd84fa6cdc858f3177fc4a43c3b121b4896b3402199ef023d5df1e5b1dab65'}
+  - {seq: 1, role: markers, filename: assets/KR2p0050_001-tls.markers.yaml, hash: 'sha256:6a5adae4e9ffeb12a5fc6b4f0f4f7deb4841cc51d35bd4c7c31c33ba02ef5f1f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,4 @@ table_of_contents:
   label: ''
   type: section
   level: 1
-hash: sha256:887f238b8100be44ee26c8a197f1a67ca4e77c75534038ed6b9c0123a47ad819
+hash: sha256:303d71744d331264bf4ad179c575c35a9032a27ca2d51ae0954a43ae5c52aebe
